@@ -1,16 +1,17 @@
-### Hi there 👋
+### I'm Nitin Pal 😇
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nitin-Pal01" alt="Nitin Pal" /> </p>
 
-<!--
-**Nitin-Pal01/Nitin-Pal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏽‍💻 Mobile App Developer @TNitin Pal
+- 💬 Ask me about **FrontEnd**
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me **nitinpal242004@gmail.com**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitin-Pal01&show_icons=true&locale=en" alt="Nitin Pal" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin-Pal01&layout=compact"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin-Pal01&" alt="Nitin Pal" />
+</details>
