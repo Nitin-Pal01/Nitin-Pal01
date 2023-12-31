@@ -1,7 +1,7 @@
 ### I'm Nitin Pal 😇
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nitin-Pal01" alt="Nitin Pal" /> </p>
 
-- 🧑🏽‍💻 Mobile App Developer @TNitin Pal
+- 🧑🏽‍💻 Mobile App Developer @Nitin Pal
 - 💬 Ask me about **FrontEnd**
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me **nitinpal242004@gmail.com**
